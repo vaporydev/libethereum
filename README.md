@@ -1,4 +1,4 @@
-# Former home of libethereum (part of cpp-ethereum)
+# Former home of libvapory (part of cpp-ethereum)
 
 [cpp-ethereum](http://cpp-ethereum.org) is the [Ethereum](http://ethereum.org) C++ client.
 
